@@ -26,6 +26,12 @@ Authentication: OAuth 2.0 with Spotify Client ID & Secret
 
 🖼️ Screenshots
 ![Album Finder](https://github.com/user-attachments/assets/d229c2e5-638e-466b-a533-528559a5bd3d)
+![s1](https://github.com/user-attachments/assets/f94df225-f22f-4559-909d-41841ba4b874)
+![s2](https://github.com/user-attachments/assets/88b99c09-ad69-49a7-9ab0-79771f9701f8)
+![s3](https://github.com/user-attachments/assets/e2d3597f-48f5-4d0a-a1cb-b0e2bd41e2ba)
+
+
+
 
 
 Search View
@@ -33,9 +39,10 @@ Search View
 Track Details
 
 
+🧑‍💻 Developed by
+
+Meghana Lakshmipalem
+
+Frontend Developer | React Enthusiast | Spotify API Explorer 🎧
 
 
-
-📦 Installation
-
-Clone the repository
