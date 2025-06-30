@@ -46,7 +46,7 @@ function App() {
       },
     };
 
-    // Get Artist
+    
     const artistID = await fetch(
       "https://api.spotify.com/v1/search?q=" + searchInput + "&type=artist",
       artistParams
@@ -56,7 +56,7 @@ function App() {
         return data.artists.items[0].id;
       });
 
-    // Get Artist Albums
+   
     await fetch(
       "https://api.spotify.com/v1/artists/" +
         artistID +
